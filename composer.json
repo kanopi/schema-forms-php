@@ -1,5 +1,5 @@
 {
-    "name": "e0ipso/schema-forms",
+    "name": "kanopi/schema-forms",
     "description": "Creates form definitions from JSON Schema property definitions and display configuration.",
     "license": "GPL-2.0-or-later",
     "type": "library",
